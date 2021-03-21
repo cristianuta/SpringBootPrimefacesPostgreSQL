@@ -1,1 +1,0 @@
-CREATE USER tableuser WITH PASSWORD 'tableuser' CREATEDB;

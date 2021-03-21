@@ -1,1 +1,0 @@
-GRANT ALL on database datatable TO GROUP admin;

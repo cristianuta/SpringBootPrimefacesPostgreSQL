@@ -1,1 +1,0 @@
-GRANT admin TO tableuser;

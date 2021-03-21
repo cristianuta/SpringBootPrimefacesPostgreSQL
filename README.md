@@ -13,4 +13,4 @@ To build the application, runs mvn clean install
 chmod +x target/spring-boot-primefaces-postgre-sql-0.0.1-SNAPSHOT.jar
 java -jar target/spring-boot-primefaces-postgre-sql-0.0.1-SNAPSHOT.jar
 
-In browser, execute the link: http://localhost:9000/springjsf/index.jsf 
+In browser, execute the link: http://localhost:9000/data-table/index.jsf
